@@ -2,6 +2,9 @@
 
 A simple ESP32 project that initializes an HW-125 SPI microSD adapter, reports the card capacity, and writes a text message to `hello.txt`.
 
+![Project photo](ESP32-SDCard.jpg)
+
+
 ## Project overview
 
 The ESP32 communicates with the HW-125 microSD adapter over SPI. When the board starts, the sketch:
