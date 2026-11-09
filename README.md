@@ -36,7 +36,6 @@ The pin assignments below are taken directly from the sketch.
 | VCC | Appropriate module supply | See power note below |
 | GND | GND | Common ground |
 
-![ESP32 connected to HW-125 MicroSD adapter](docs/ESP32-SDCard.jpg)
 
 ### Power and logic-level note
 
