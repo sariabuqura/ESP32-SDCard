@@ -126,7 +126,7 @@ If you change the CS wire to another GPIO, update `SD_CS` in the sketch to match
 
 ## Source code
 
-See [`ESP32_HW125_SDCard.ino`](ESP32_HW125_SDCard.ino).
+See [`ESP32-SDCard.ino`](ESP32-SDCard.ino).
 
 ## License
 
